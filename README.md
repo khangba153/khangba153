@@ -97,39 +97,6 @@ Branch management system for beverage business.
 
 ---
 
-### Movie Ticket Booking
-
-Cinema booking system built with ASP.NET Core Web API.
-
-**Tech Stack:** ASP.NET Core Web API, EF Core, SQL Server
-
-- Authentication & Authorization
-- Movie management
-- Showtime management
-- Seat management
-- Booking flow
-- Admin CRUD
-
-[Repository](https://github.com/khangba153/Movie-Ticket-Booking)
-
----
-
-### Personal Schedule Manager
-
-Desktop scheduling application built with C# WinForms.
-
-**Tech Stack:** C#, WinForms, OOP
-
-- Task management
-- Event management
-- JSON serialization
-- Strategy Pattern
-- Layered architecture
-
-[Repository](https://github.com/khangba153/PersonalScheduleManager)
-
----
-
 ## GitHub Stats
 
 <p align="center">

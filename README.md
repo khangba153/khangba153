@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Khang
 
-<!--
-**khangba153/khangba153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focusing on .NET Backend Development.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- Blazor
+- Git & GitHub
+
+## Featured Projects
+
+### TuanKietBranchFlow
+Branch management system built with ASP.NET Core, Blazor, EF Core and SQL Server.
+
+- Role-based authorization
+- Order management
+- Inventory management
+- Payroll
+- Dashboard
+- Soft delete & audit log
+
+### Movie Ticket Booking
+Cinema booking system built with ASP.NET Core Web API.
+
+- Authentication & Authorization
+- Movie / Showtime / Seat management
+- Booking flow
+- Admin CRUD
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/thanh-chi-khang-ba-1871ba434/
